@@ -10,5 +10,5 @@ for i in c:
 
 print(b)
 
-l1=list(map(lambda x:int(x),a.split()))
+l1=list(map(lambda x:int(x),a.split()))  #in single line
 print(l1)
